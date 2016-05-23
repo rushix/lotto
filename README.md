@@ -1,0 +1,2 @@
+# lotto
+simple api handler
